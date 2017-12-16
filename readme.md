@@ -1,3 +1,13 @@
+# bookapp
+
++ Laravelベースで作成した書籍一覧アプリケーション
+
+## run
++ php:7.0.15
++ Laravel:5.2.45
+
+```php artisan serve```
+
 # Laravel PHP Framework
 
 [![Build Status](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework)
